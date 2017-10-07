@@ -1,0 +1,6 @@
+{
+    //"DBHost": "mongodb://localhost:27017/qyu-delivery-dev"
+    //"DBHost": "mongodb://localhost:27017/dev-admin-prod"
+    "DBHost" :"mongodb://Giuan:gasapfre95@cluster0-shard-00-00-kvgat.mongodb.net:27017,cluster0-shard-00-01-kvgat.mongodb.net:27017,cluster0-shard-00-02-kvgat.mongodb.net:27017/prod?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin"
+    //"DBHost": "mongodb://qyuadmin:MypassMypass901@35.184.61.135:80/prod"
+}
